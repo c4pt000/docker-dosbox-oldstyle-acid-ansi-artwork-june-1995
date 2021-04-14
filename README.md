@@ -4,6 +4,13 @@
 had a trip down memory lane to my youth of bbs days and loading ansi graphics on ACiD and iCE inspired bbses from the 90s after trying to realize how this guy is raking in a fortune for 50k to 100k for such horrible ansi graphics design??
 
 
+
+how does this scumbag get away with almost 20k USD per listing compared to other art on opensea.io?
+https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/6166  <<<<<---??????????????
+they look like a pokeman style of collect them all criminal mug shots drawn on bazooka joe bubble gum wrappers?
+
+
+
 ```
 4a94f7c0f2c9: Already exists 
 a06d5981ded3: Already exists 
