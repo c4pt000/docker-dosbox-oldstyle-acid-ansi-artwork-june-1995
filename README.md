@@ -2,6 +2,7 @@ had a trip down memory lane to my youth of bbs days and loading ansi graphics on
 
 ```
 docker run -it -d -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix c4pt/oldstyle-acid-ansi-pack-june-1995
+docker exec -it <docker_vm_hash> bash
 cd /acid-graphics
 dosbox FREEVIEW.EXE
 dir /p
