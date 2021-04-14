@@ -15,7 +15,7 @@ had a trip down memory lane to my youth of bbs days and loading ansi graphics on
 
 
 
-how does this scumbag get away with almost 20k USD per listing compared to other art on opensea.io?
+how does the person get away with almost 20k USD per listing compared to other art on opensea.io?
 https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/6166  <<<<<---?????????????? is THIS him the modern bazooka joe bubble gum??
 they look like a pokeman style of collect them all criminal mug shots drawn on bazooka joe bubble gum wrappers?
 
