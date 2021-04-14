@@ -1,5 +1,8 @@
 # oldstyle-acid-ansi-artwork-june-1995
 HOW IS THIS GUY SELLING ANSI ARTWORK SO HORRIBLE FOR 100K USD ? https://opensea.io/assets/0xb47e3cd837ddf8e4c57f05d70ab865de6e193bbb/6166
+![s1](https://raw.githubusercontent.com/c4pt000/oldstyle-acid-ansi-artwork-june-1995/main/rankings-opensea.png)
+16,000+ ETH ? @ 2,000~ usd per ETH close to 3,000,000 or 32,000,000 USD or something ?
+doesnt make any sense to me?
 
 
 
