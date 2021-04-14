@@ -1,3 +1,6 @@
+![s1](https://raw.githubusercontent.com/c4pt000/oldstyle-acid-ansi-artwork-june-1995/main/remembering-ansi-graphics.png)
+
+
 had a trip down memory lane to my youth of bbs days and loading ansi graphics on ACiD and iCE inspired bbses from the 90s after trying to realize how this guy is raking in a fortune for 50k to 100k for such horrible ansi graphics design??
 
 
