@@ -25,7 +25,15 @@ they look like a pokeman style of collect them all criminal mug shots drawn on b
 
 <img src="https://raw.githubusercontent.com/c4pt000/oldstyle-acid-ansi-artwork-june-1995/main/unnamed.png" width="500" height="300" />
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+# to pull the docker dosbox image to view an acid bbs pack from the 90s
 
 ```
 4a94f7c0f2c9: Already exists 
