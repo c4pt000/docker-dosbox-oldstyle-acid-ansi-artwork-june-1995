@@ -7,7 +7,7 @@ a06d5981ded3: Already exists
 dacde0d7abb4: Pull complete 
 Digest: sha256:b8f41ccdd830efbe0531c5ca0eb87218949d7bd97649a172f3d0e4e22b2314c5
 Status: Downloaded newer image for c4pt/oldstyle-acid-ansi-pack-june-1995:latest
-63c242c3d828012421324f2da65103761bcd669f6e66986765aae06dc07138ff        <-- <docker_vm_hash>
+63c242c3d828012421324f2da65103761bcd669f6e66986765aae06dc07138ff        <-- <not_this_docker_vm_hash_your_vm_hash>
 
 ```
 
